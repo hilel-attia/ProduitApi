@@ -1,0 +1,13 @@
+C:\Users\hilel attia\source\repos\ProduitAPI\ProduitAPI\bin\Debug\netcoreapp2.2\ProduitAPI.deps.json
+C:\Users\hilel attia\source\repos\ProduitAPI\ProduitAPI\bin\Debug\netcoreapp2.2\ProduitAPI.runtimeconfig.json
+C:\Users\hilel attia\source\repos\ProduitAPI\ProduitAPI\bin\Debug\netcoreapp2.2\ProduitAPI.runtimeconfig.dev.json
+C:\Users\hilel attia\source\repos\ProduitAPI\ProduitAPI\bin\Debug\netcoreapp2.2\ProduitAPI.dll
+C:\Users\hilel attia\source\repos\ProduitAPI\ProduitAPI\bin\Debug\netcoreapp2.2\ProduitAPI.pdb
+C:\Users\hilel attia\source\repos\ProduitAPI\ProduitAPI\obj\Debug\netcoreapp2.2\ProduitAPI.csprojAssemblyReference.cache
+C:\Users\hilel attia\source\repos\ProduitAPI\ProduitAPI\obj\Debug\netcoreapp2.2\ProduitAPI.RazorAssemblyInfo.cache
+C:\Users\hilel attia\source\repos\ProduitAPI\ProduitAPI\obj\Debug\netcoreapp2.2\ProduitAPI.RazorAssemblyInfo.cs
+C:\Users\hilel attia\source\repos\ProduitAPI\ProduitAPI\obj\Debug\netcoreapp2.2\ProduitAPI.AssemblyInfoInputs.cache
+C:\Users\hilel attia\source\repos\ProduitAPI\ProduitAPI\obj\Debug\netcoreapp2.2\ProduitAPI.AssemblyInfo.cs
+C:\Users\hilel attia\source\repos\ProduitAPI\ProduitAPI\obj\Debug\netcoreapp2.2\ProduitAPI.RazorTargetAssemblyInfo.cache
+C:\Users\hilel attia\source\repos\ProduitAPI\ProduitAPI\obj\Debug\netcoreapp2.2\ProduitAPI.dll
+C:\Users\hilel attia\source\repos\ProduitAPI\ProduitAPI\obj\Debug\netcoreapp2.2\ProduitAPI.pdb
